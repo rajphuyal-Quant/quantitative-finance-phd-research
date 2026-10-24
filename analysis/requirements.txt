@@ -1,0 +1,1 @@
+# No third-party dependencies for descriptive replication.
